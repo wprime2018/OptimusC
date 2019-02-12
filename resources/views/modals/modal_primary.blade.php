@@ -1,10 +1,10 @@
-<div class="modal fade" id="{{$triggerModal}}" style="display: none;" role="dialog">
-    <div class="modal-dialog">
+<div class="modal fade bd-example-modal-lg" id="{{$triggerModal}}" aria-labelledby="exampleModalLabel" style="display: none;" role="dialog">
+    <div class="modal-dialog modal-lg" role="document">
         <div class="modal-content">
-            {!! Form::open(['class' =>'form-inline form-delete', 'method'=>"$methodModal", 'action' => "$actionModal", 'enctype'=> 'multipart/form-data' ]) !!} 
+            {!! Form::open(['class' =>'form-inline form-delete', 'method'=>"$methodModal", 'action' => "$actionModal", 'enctype'=> 'multipart/form-data' ]) !!}
             <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                <span aria-hidden="true">X</span></button>
+                <span aria-hidden="true">x</span></button>
                 <h4 class="modal-title">{{$tituloModal}}</h4>
             </div>
             <div class="modal-body">
