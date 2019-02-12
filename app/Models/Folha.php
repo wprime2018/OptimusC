@@ -9,6 +9,7 @@ class Folha extends Model
     protected $table = 'folhas';
     // Abaixo informo quais os campos da tabela podem ser preenchidas
     protected $fillable = [
+            'ug_id',
             'mesRefFolha',
             'anoRefFolha',
             'tipoFolha',
