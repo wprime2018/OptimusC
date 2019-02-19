@@ -16,8 +16,8 @@ class CreateAgentesTable extends Migration
         Schema::create('agentes', function (Blueprint $table) {
             $table->increments('id');
             $table->integer('folha_id', false, true);
-            $table->foreign('folha_id')->references('id')->on('folhas')->onDelete('cascade');            $table->integer('mesRefFolha');
-            $table->bigInteger('cpf')->unsigned()->nullable();
+            $table->foreign('folha_id')->references('id')->on('folhas')->onDelete('cascade');
+            $table->bigInteger('cpfAgenPublico')->unsigned()->nullable();
             $table->string('numRgAgenPublico',30)->nullable();
             $table->string('numPisPasepAgenPublico',15)->nullable();
             $table->string('nomeAgenPublico',60);
@@ -31,7 +31,7 @@ class CreateAgentesTable extends Migration
             $table->integer('cargaHorariaSemanal')->unsigned()->nullable();
             $table->string('localTrabalho',60);
             $table->string('orgaoTrabalho',60);
-            $table->timestamp('dataIngressoOrgao');
+            $table->date('dataIngressoOrgao');
             $table->integer('tipoRegimeJuridico')->unsigned()->nullable();
             $table->integer('situacaoFuncional')->unsigned()->nullable();
             $table->string('codigoBanco',10)->nullable();

@@ -33,7 +33,7 @@
             ImportSagres@importFolha
         @endslot
         @slot('methodModal')
-            get
+            post
         @endslot
         @slot('bodyModal')
             <div class="row">

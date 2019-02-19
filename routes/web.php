@@ -18,4 +18,4 @@ Route::get('/', function () {
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
-Route::get('/importSagres', 'ImportSagres@importFolha')->name('importSagres');
+Route::post('/importSagres', 'ImportSagres@importFolha')->name('importSagres');

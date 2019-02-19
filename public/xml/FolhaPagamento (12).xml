@@ -1,0 +1,3629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fpg:ListaFolhaPagamento
+  xmlns:fpg="http://www.tce.se.gov.br/sagres2018/xml/FolhaPagamento" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <fpg:PrestacaoContas>
+    <fpg:codigoUnidGestora>009126</fpg:codigoUnidGestora>
+    <fpg:nomeUnidGestora>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:nomeUnidGestora>
+    <fpg:cpfContador>05502519520</fpg:cpfContador>
+    <fpg:cpfGestor>00145110532</fpg:cpfGestor>
+    <fpg:anoReferencia>2018</fpg:anoReferencia>
+    <fpg:mesReferencia>6</fpg:mesReferencia>
+    <fpg:versaoXml>0</fpg:versaoXml>
+    <fpg:diaInicPresContas>1</fpg:diaInicPresContas>
+    <fpg:diaFinaPresContas>30</fpg:diaFinaPresContas>
+  </fpg:PrestacaoContas>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>78890411520</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico xsi:nil="true"/>
+    <fpg:numPisPasepAgenPublico>20025696038</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>ADEMARA ANDRADE MOTA DE JESUS</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>0000251</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>ASSESSOR ADMINISTRATIVO II</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>adm2</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>ASSESSOR ADMINISTRATIVO II</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>adm2</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>RP COMISSIONADOS</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2017-03-02</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>3</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>014</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>693678</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>0</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>1000.00</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>80.00</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>920.00</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>1000.00</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>937.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>63.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>GRATIFICACAO DE DESEMPENH</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>80.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>98487868568</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico xsi:nil="true"/>
+    <fpg:numPisPasepAgenPublico>17052041977</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>ANA ADELMA DOS SANTOS PINHEIRO</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>003803</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>CHEFE DE DIVISAO</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>1</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>CHEFE DE DIVISAO</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>1</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>RP COMISSIONADOS</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2017-02-01</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>3</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>020</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>0060922</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>0</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>3249.33</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>436.40</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>2812.93</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>3249.33</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>1500.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>GRATIFICACAO DE DESEMPENH</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>937.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>812.33</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>1/3 Ferias</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>357.42</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>78.98</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>IRRF</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>00612854558</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico>0000000001221209</fpg:numRgAgenPublico>
+    <fpg:numPisPasepAgenPublico>16154787678</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>ANA MARCIA DOS REIS</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>003831</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>SERVICOS GERAIS</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>serv</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>SERVICOS GERAIS</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>serv</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>RP CONTRATOS</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2018-03-01</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>3</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>020</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>147432</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>0</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>954.00</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>76.32</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>877.68</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>954.00</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>954.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>76.32</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>04405598550</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico xsi:nil="true"/>
+    <fpg:numPisPasepAgenPublico>20637963819</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>ANA MARIA DANTAS DOS SANTOS</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>003840</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>CHEFE DE SECCAO</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>CH.SEC</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>CHEFE DE SECCAO</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>CH.SEC</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>RP COMISSIONADOS</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2018-03-01</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>3</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>022</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>104276</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>0</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>2000.00</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>180.00</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>1820.00</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>2000.00</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>1063.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>GRATIFICACAO DE DESEMPENH</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>937.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>180.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>00861810503</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico xsi:nil="true"/>
+    <fpg:numPisPasepAgenPublico>12943121764</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>ANA MERCIA SANTOS DO NASCIMENTO MELO</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>0000215</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>CHEFE DE DIVISAO</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>1</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>CHEFE DE DIVISAO</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>1</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>RP COMISSIONADOS</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2017-01-03</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>1</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>020</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>047292</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>0</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>2000.00</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>180.00</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>1820.00</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>2000.00</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>1063.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>GRATIFICACAO DE DESEMPENH</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>937.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>180.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>06904295503</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico xsi:nil="true"/>
+    <fpg:numPisPasepAgenPublico>20046671670</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>ANA PAULA DANTAS LIMA</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>0000254</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>ASSESSOR ADMINISTRATIVO I</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>adm1</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>ASSESSOR ADMINISTRATIVO I</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>adm1</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>RP COMISSIONADOS</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2017-01-09</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>1</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>020</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>146002</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>0</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>1800.00</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>162.00</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>1638.00</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>1800.00</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>937.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>863.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>GRATIFICACAO DE DESEMPENH</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>162.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>05399204525</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico xsi:nil="true"/>
+    <fpg:numPisPasepAgenPublico>16068312322</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>ANA PAULA VIEIRA DA CRUZ</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>003810</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>CHEFE DE SECCAO</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>CH.SEC</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>CHEFE DE SECCAO</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>CH.SEC</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>RP COMISSIONADOS</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2018-01-02</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>3</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>020</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>149710</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>0</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>2100.00</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>189.52</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>1910.48</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>2100.00</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>1163.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>GRATIFICACAO DE DESEMPENH</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>937.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>189.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>0.52</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>IRRF</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>00145110532</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico xsi:nil="true"/>
+    <fpg:numPisPasepAgenPublico>12722871760</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>ANDREA DOS SANTOS</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>0000222</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>SEC. ASSSISTENCIA SOCIAL</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>SEC AS</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>SEC. ASSSISTENCIA SOCIAL</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>SEC AS</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>RP COMISSIONADOS</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2017-01-02</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>1</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>020</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>049120</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>0</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>7596.68</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>1669.97</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>5926.71</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>7596.68</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>7596.68</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>1048.94</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>IRRF</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>621.03</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>01942230516</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico xsi:nil="true"/>
+    <fpg:numPisPasepAgenPublico>16094510144</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>ANDRE JOSE DOS SANTOS</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>0000190</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>CONSELHEIRO TUTELAR</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>CONSELHEIR</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>CONSELHEIRO TUTELAR</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>CONSELHEIR</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>CONSELHO TUTELAR</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2016-01-08</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>1</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>020</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>86140</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>2</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>1144.80</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>356.12</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>788.68</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>1144.80</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>954.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>190.80</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>GRATIFICACAO DE DESEMPENH</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>264.54</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>CONSIG. BANESE</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>91.58</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>05946454501</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico>0000000035198907</fpg:numRgAgenPublico>
+    <fpg:numPisPasepAgenPublico>16167511439</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>ANEGLEIDE DOS SANTOS</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>003827</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>EDUCADOR SOCIAL</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>EDUCADORSO</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>EDUCADOR SOCIAL</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>EDUCADORSO</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>PSB</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2018-03-01</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>3</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>020</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>127547</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>0</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>954.00</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>76.32</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>877.68</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>954.00</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>954.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>76.32</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>29696917520</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico xsi:nil="true"/>
+    <fpg:numPisPasepAgenPublico>10766946530</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>ANTONIO CARLOS ALVES DOS SANTOS</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>0000191</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>CONSELHEIRO TUTELAR</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>CONSELHEIR</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>CONSELHEIRO TUTELAR</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>CONSELHEIR</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>CONSELHO TUTELAR</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2016-01-08</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>1</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>020</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>141680</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>0</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>1144.80</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>346.95</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>797.85</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>1144.80</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>954.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>190.80</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>GRATIFICACAO DE DESEMPENH</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>255.37</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>CONSIG. BANESE</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>91.58</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>72160772534</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico xsi:nil="true"/>
+    <fpg:numPisPasepAgenPublico>16005120361</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>ANTONIO DOS SANTOS</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>003845</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>VIGILANTE</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>vig</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>VIGILANTE</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>vig</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>CASA LAR</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2018-05-02</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>3</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>020</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>155087</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>0</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>1144.80</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>91.58</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>1053.22</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>1144.80</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>954.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>190.80</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Adicional Noturno</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>91.58</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>01558073582</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico xsi:nil="true"/>
+    <fpg:numPisPasepAgenPublico>12765868761</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>BETANIA RODRIGUES DOS SANTOS</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>003818</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>ASSESSOR ADMINISTRATIVO I</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>adm1</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>ASSESSOR ADMINISTRATIVO I</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>adm1</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>RP COMISSIONADOS</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2018-02-01</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>3</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>020</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>150891</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>0</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>1200.00</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>96.00</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>1104.00</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>1200.00</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>937.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>263.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>GRATIFICACAO DE DESEMPENH</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>96.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>01741505550</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico xsi:nil="true"/>
+    <fpg:numPisPasepAgenPublico>20645944135</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>CINTIA CARLOS RODRIGUES</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>0000216</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>CHEFE DE SECCAO</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>CH.SEC</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>CHEFE DE SECCAO</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>CH.SEC</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>RP COMISSIONADOS</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2017-01-03</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>1</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>020</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>063638</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>0</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>1880.00</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>169.20</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>1710.80</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>1880.00</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>943.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>GRATIFICACAO DE DESEMPENH</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>937.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>169.20</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>96271353568</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico xsi:nil="true"/>
+    <fpg:numPisPasepAgenPublico>17071236559</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>CLAUDICELIA SANTOS DA SILVA</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>0000003</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>SERVICOS GERAIS</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>serv</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>SERVICOS GERAIS</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>serv</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>RP EFETIVO</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>1998-07-01</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>1</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>020</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>29669</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>0</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>1297.44</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>446.05</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>851.39</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>1297.44</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>954.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>343.44</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Trienio</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>259.33</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>CONSIG. BANESE</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>103.79</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>76.75</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>CONSIG. BANCO DAYCOVAL</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>6.18</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>SINDISERV</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>03517914509</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico xsi:nil="true"/>
+    <fpg:numPisPasepAgenPublico>16468600341</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>CRISANGELA SANTOS DE SOUSA</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>003821</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>AUX. SERV. GERAIS</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>au.sg</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>AUX. SERV. GERAIS</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>au.sg</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>ASSISTENCIA - CONTRATADOS (HABITACAO E ACAO SOCIAL)</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2018-03-01</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>3</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>020</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>70510</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>0</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>954.00</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>76.32</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>877.68</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>954.00</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>954.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>76.32</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>06249572503</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico>0000000023894610</fpg:numRgAgenPublico>
+    <fpg:numPisPasepAgenPublico>16001151033</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>DAIANE DOS SANTOS COUTINHO</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>003835</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>CHEFE DE SECCAO</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>CH.SEC</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>CHEFE DE SECCAO</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>CH.SEC</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>PROGRAMA CRIANCA FELIZ</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2018-03-01</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>3</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>020</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>140314</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>0</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>1200.00</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>96.00</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>1104.00</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>1200.00</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>937.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>263.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>GRATIFICACAO DE DESEMPENH</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>96.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>01971553590</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico xsi:nil="true"/>
+    <fpg:numPisPasepAgenPublico>12958617760</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>DAMIAO DANTAS SOARES</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>0000192</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>CONSELHEIRO TUTELAR</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>CONSELHEIR</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>CONSELHEIRO TUTELAR</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>CONSELHEIR</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>CONSELHO TUTELAR</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2016-01-08</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>1</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>020</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>77337</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>0</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>1144.80</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>325.16</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>819.64</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>1144.80</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>954.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>190.80</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>GRATIFICACAO DE DESEMPENH</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>233.58</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>CONSIG. BANESE</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>91.58</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>02845264526</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico xsi:nil="true"/>
+    <fpg:numPisPasepAgenPublico>16102628641</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>DARLEY DE JESUS SILVA</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>0000193</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>CONSELHEIRO TUTELAR</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>CONSELHEIR</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>CONSELHEIRO TUTELAR</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>CONSELHEIR</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>CONSELHO TUTELAR</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2016-01-08</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>3</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>020</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>67781</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>2</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>2</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>1208.22</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>367.73</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>840.49</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>1144.80</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>954.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>190.80</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>GRATIFICACAO DE DESEMPENH</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>63.42</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Salario Familia</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>276.15</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>CONSIG. BANESE</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>91.58</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>02188818512</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico xsi:nil="true"/>
+    <fpg:numPisPasepAgenPublico>12951495767</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>DEISEANE CARLOS SANTOS</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>0000243</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>CHEFE DE DIVISAO</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>1</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>CHEFE DE DIVISAO</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>1</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>RP COMISSIONADOS</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2017-02-01</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>3</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>022</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>101692</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>0</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>2811.00</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>302.04</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>2508.96</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>2811.00</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>1874.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>GRATIFICACAO DE DESEMPENH</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>937.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>252.99</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>49.05</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>IRRF</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>05399202581</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico>0000000026069288</fpg:numRgAgenPublico>
+    <fpg:numPisPasepAgenPublico>16005371747</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>EDELAINE OLIVEIRA SANTOS</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>003816</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>EDUCADOR SOCIAL</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>EDUCADORSO</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>EDUCADOR SOCIAL</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>EDUCADORSO</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>PSB</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2018-03-01</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>3</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>020</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>112736</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>0</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>954.00</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>76.32</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>877.68</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>954.00</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>954.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>76.32</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>00640228542</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico xsi:nil="true"/>
+    <fpg:numPisPasepAgenPublico>12864615764</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>ELAINE SOARES DE MENEZES</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>003817</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>ASSESSOR ADMINISTRATIVO I</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>adm1</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>ASSESSOR ADMINISTRATIVO I</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>adm1</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>RP COMISSIONADOS</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2018-02-01</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>3</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>020</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>64332</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>0</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>1200.00</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>96.00</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>1104.00</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>1200.00</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>937.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>263.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>GRATIFICACAO DE DESEMPENH</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>96.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>04364494550</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico xsi:nil="true"/>
+    <fpg:numPisPasepAgenPublico>16094756712</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>ERICA DA SILVA SOUZA</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>0000218</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>DIRETOR DE DEPARTAMENTO</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>DIR DEP</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>DIRETOR DE DEPARTAMENTO</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>DIR DEP</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>RP COMISSIONADOS</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2017-01-03</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>3</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>020</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>112752</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>0</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>3000.00</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>387.45</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>2612.55</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>3000.00</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>2000.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>GRATIFICACAO DE DESEMPENH</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>1000.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>330.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>57.45</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>IRRF</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>01631018507</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico xsi:nil="true"/>
+    <fpg:numPisPasepAgenPublico>16223197080</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>ESTEFANIA FERREIRA DIAS</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>0000194</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>CONSELHEIRO TUTELAR</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>CONSELHEIR</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>CONSELHEIRO TUTELAR</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>CONSELHEIR</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>CONSELHO TUTELAR</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2016-01-08</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>1</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>020</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>69687</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>1</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>1</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>1176.51</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>91.58</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>1084.93</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>1144.80</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>954.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>190.80</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>GRATIFICACAO DE DESEMPENH</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>31.71</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Salario Familia</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>91.58</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>06192156581</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico>0000000029118557</fpg:numRgAgenPublico>
+    <fpg:numPisPasepAgenPublico>20046671093</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>FRAMILSON SANTANA DE SENA</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>003825</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>VIGILANTE</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>vig</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>VIGILANTE</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>vig</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>ASSISTENCIA - CONTRATADOS (HABITACAO E ACAO SOCIAL)</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2018-03-01</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>3</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>020</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>147742</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>0</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>954.00</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>76.32</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>877.68</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>954.00</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>954.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>76.32</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>04578941566</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico xsi:nil="true"/>
+    <fpg:numPisPasepAgenPublico>16176094551</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>GEBERTON NASCIMENTO DOS SANTOS</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>0000092</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>CHEFE DE DIVISAO</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>1</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>CHEFE DE DIVISAO</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>1</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>RP COMISSIONADOS</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2017-10-11</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>1</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>020</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>94428</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>0</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>2461.40</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>246.71</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>2214.69</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>2461.40</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>1524.40</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>GRATIFICACAO DE DESEMPENH</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>937.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>221.52</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>25.19</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>IRRF</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>43719430553</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico>0000000001017267</fpg:numRgAgenPublico>
+    <fpg:numPisPasepAgenPublico>12277712134</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>GEILZA NUNES FRANCA</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>003842</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>ASSESSOR ADMINISTRATIVO I</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>adm1</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>ASSESSOR ADMINISTRATIVO I</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>adm1</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>RP COMISSIONADOS</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2018-03-01</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>3</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>020</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>25515</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>0</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>954.00</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>76.32</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>877.68</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>954.00</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>937.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>17.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>GRATIFICACAO DE DESEMPENH</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>76.32</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>03214756583</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico>0000000022719075</fpg:numRgAgenPublico>
+    <fpg:numPisPasepAgenPublico>12887606761</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>GEIZA DE OLIVEIRA SANTOS</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>003833</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>CHEFE DE SECCAO</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>CH.SEC</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>CHEFE DE SECCAO</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>CH.SEC</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>RP COMISSIONADOS</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2018-03-01</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>3</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>020</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>93448</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>0</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>1800.00</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>162.00</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>1638.00</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>1800.00</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>937.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>863.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>GRATIFICACAO DE DESEMPENH</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>162.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>07720389530</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico xsi:nil="true"/>
+    <fpg:numPisPasepAgenPublico>16232423160</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>GELSON SILVA DOS SANTOS</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>003811</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>CARGO COMISSIONADO</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>CARGOCOMIS</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>CARGO COMISSIONADO</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>CARGOCOMIS</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>RP COMISSIONADOS</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2018-02-07</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>3</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>020</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>146010</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>0</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>1200.00</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>157.50</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>1042.50</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>1200.00</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>954.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>246.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>GRATIFICACAO DE DESEMPENH</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>157.50</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>72160098515</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico>0000000001292644</fpg:numRgAgenPublico>
+    <fpg:numPisPasepAgenPublico>17071236648</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>GENALVA FAGUNDES FORTUNA</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>0000004</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>AUXILIAR ADMINISTRATIVO</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>AUXILIARAD</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>AUXILIAR ADMINISTRATIVO</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>AUXILIARAD</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>RP EFETIVO</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>1998-08-03</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>1</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>020</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>26228</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>1</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>2</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>1329.15</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>113.33</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>1215.82</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>1297.44</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>954.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>343.44</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Trienio</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>31.71</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Salario Familia</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>103.79</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>9.54</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>SINDISERV</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>00586769536</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico xsi:nil="true"/>
+    <fpg:numPisPasepAgenPublico>13002449899</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>GILVANETE BATISTA DE SANTANA</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>003798</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>CHEFE DE DIVISAO</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>1</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>CHEFE DE DIVISAO</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>1</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>RP COMISSIONADOS</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2017-04-03</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>3</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>020</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>149621</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>0</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>2000.00</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>180.00</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>1820.00</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>2000.00</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>1063.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>GRATIFICACAO DE DESEMPENH</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>937.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>180.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>07339239502</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico>0000000035179562</fpg:numRgAgenPublico>
+    <fpg:numPisPasepAgenPublico>16068472567</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>GUSTAVO DANTAS DOS SANTOS</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>003822</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>OFICINEIRO </fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>OFICINEIRO</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>OFICINEIRO </fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>OFICINEIRO</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>PSB</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2018-03-01</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>3</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>020</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>154137</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>0</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>954.00</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>76.32</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>877.68</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>954.00</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>954.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>76.32</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>04478784507</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico>0000000026714639</fpg:numRgAgenPublico>
+    <fpg:numPisPasepAgenPublico>20413471165</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>IZABEL SILVA ALVES</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>003823</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>OFICINEIRO </fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>OFICINEIRO</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>OFICINEIRO </fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>OFICINEIRO</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>PSB</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2018-03-01</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>3</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>008</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>343116</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>0</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>954.00</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>76.32</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>877.68</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>954.00</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>954.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>76.32</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>04836633524</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico xsi:nil="true"/>
+    <fpg:numPisPasepAgenPublico>16176057990</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>JANAINA DOS SANTOS GAMA</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>0003788</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>ASSISTENTE SOCIAL</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>ASS.SOC</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>ASSISTENTE SOCIAL</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>ASS.SOC</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>CASA LAR</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2017-01-11</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>1</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>020</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>126648</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>0</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>1600.00</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>128.00</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>1472.00</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>1600.00</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>1600.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>128.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>03701709548</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico xsi:nil="true"/>
+    <fpg:numPisPasepAgenPublico>20458394607</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>JEFFERSON COSME DE JESUS GAMA</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>003819</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>VIGILANTE</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>vig</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>VIGILANTE</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>vig</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>RP CONTRATOS</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2018-02-01</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>3</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>020</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>126575</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>0</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>954.00</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>76.32</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>877.68</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>954.00</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>954.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>76.32</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>02974227589</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico xsi:nil="true"/>
+    <fpg:numPisPasepAgenPublico>21287512722</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>JESSICA DORALICE OLIVEIRA DANTAS</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>0000212</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>SEC. ADJUNTO(A)</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>SEC  ADJ</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>SEC. ADJUNTO(A)</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>SEC  ADJ</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>RP COMISSIONADOS</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2017-01-03</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>1</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>020</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>69776</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>1</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>5700.00</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>1096.24</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>4603.76</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>5700.00</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>3800.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>GRATIFICACAO DE DESEMPENH</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>1900.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>621.03</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>475.21</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>IRRF</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>71265520500</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico xsi:nil="true"/>
+    <fpg:numPisPasepAgenPublico>22014700183</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>JOCILENE DANTAS CORREIA</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>0000246</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>CHEFE DE SECCAO</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>CH.SEC</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>CHEFE DE SECCAO</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>CH.SEC</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>RP COMISSIONADOS</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2017-02-01</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>1</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>022</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>104918</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>0</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>1200.00</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>96.00</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>1104.00</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>1200.00</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>937.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>263.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>GRATIFICACAO DE DESEMPENH</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>96.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>01171892519</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico xsi:nil="true"/>
+    <fpg:numPisPasepAgenPublico>12818008761</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>JOSE AMAURI DOS SANTOS</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>003806</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>DIRETOR DE DEPARTAMENTO</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>DIR DEP</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>DIRETOR DE DEPARTAMENTO</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>DIR DEP</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>RP COMISSIONADOS</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2018-01-30</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>3</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>020</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>063050</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>1</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>1</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>2500.00</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>238.60</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>2261.40</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>2500.00</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>1500.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>GRATIFICACAO DE DESEMPENH</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>1000.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>225.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>13.60</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>IRRF</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>02350709558</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico xsi:nil="true"/>
+    <fpg:numPisPasepAgenPublico>20918786767</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>JOSE DOMINGOS CARDOSO DOS SANTOS</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>003796</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>MOTORISTA - CONTRATADO</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>MOT CONT</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>MOTORISTA - CONTRATADO</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>MOT CONT</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>RP CONTRATOS</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2017-10-02</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>3</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>020</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>146070</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>0</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>1400.00</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>112.00</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>1288.00</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>1400.00</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>1400.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>112.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>00774493550</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico xsi:nil="true"/>
+    <fpg:numPisPasepAgenPublico>20093404411</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>JOSEILDES SILVA DO NASCIMENTO</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>003800</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>CHEFE DE SECCAO</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>CH.SEC</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>CHEFE DE SECCAO</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>CH.SEC</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>RP COMISSIONADOS</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2017-11-13</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>3</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>022</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>0074903</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>0</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>1200.00</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>96.00</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>1104.00</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>1200.00</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>937.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>263.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>GRATIFICACAO DE DESEMPENH</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>96.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>13668304823</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico xsi:nil="true"/>
+    <fpg:numPisPasepAgenPublico>12387619139</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>JOSE SOARES CLEMENTINO</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>003801</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>CHEFE DE SECCAO</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>CH.SEC</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>CHEFE DE SECCAO</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>CH.SEC</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>RP COMISSIONADOS</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2017-11-13</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>3</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>020</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>0077280</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>0</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>1200.00</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>96.00</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>1104.00</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>1200.00</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>937.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>263.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>GRATIFICACAO DE DESEMPENH</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>96.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>08161684588</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico>0000000035736321</fpg:numRgAgenPublico>
+    <fpg:numPisPasepAgenPublico>14017709873</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>LARISSA SANTOS ALMEIDA</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>003846</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>CHEFE DE SECCAO</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>CH.SEC</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>CHEFE DE SECCAO</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>CH.SEC</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>RP COMISSIONADOS</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2018-06-01</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>3</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>020</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>138107</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>0</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>1200.00</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>96.00</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>1104.00</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>1200.00</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>937.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>263.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>GRATIFICACAO DE DESEMPENH</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>96.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>92459781504</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico xsi:nil="true"/>
+    <fpg:numPisPasepAgenPublico>12641997764</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>LISIANE CHRISTIE CAVALCANTE DE SOUZA</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>003797</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>CHEFE DE SECCAO</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>CH.SEC</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>CHEFE DE SECCAO</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>CH.SEC</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>RP COMISSIONADOS</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2017-10-11</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>3</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>020</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>0035839</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>0</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>2811.00</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>302.04</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>2508.96</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>2811.00</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>1874.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>GRATIFICACAO DE DESEMPENH</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>937.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>252.99</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>49.05</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>IRRF</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>04863048505</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico>0000000029311411</fpg:numRgAgenPublico>
+    <fpg:numPisPasepAgenPublico>14655145273</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>LUCINEIDE MATOS DA CONCEICAO</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>003847</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>CHEFE DE SECCAO</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>CH.SEC</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>CHEFE DE SECCAO</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>CH.SEC</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>PROGRAMA CRIANCA FELIZ</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2018-06-01</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>3</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>020</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>105241</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>1</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>1</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>1231.71</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>96.00</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>1135.71</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>1200.00</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>937.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>263.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>GRATIFICACAO DE DESEMPENH</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>31.71</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Salario Familia</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>96.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>06789297502</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico>0000000016445584</fpg:numRgAgenPublico>
+    <fpg:numPisPasepAgenPublico>16511807941</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>LUNARIA SANTOS CRUZ DO NASCIMENTO</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>003826</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>EDUCADOR SOCIAL</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>EDUCADORSO</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>EDUCADOR SOCIAL</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>EDUCADORSO</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>PSB</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2018-03-01</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>3</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>020</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>147629</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>0</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>954.00</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>76.32</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>877.68</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>954.00</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>954.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>76.32</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>04167496585</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico xsi:nil="true"/>
+    <fpg:numPisPasepAgenPublico>12950404768</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>MAGNA LEONIDIO DA SILVA</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>003802</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>CHEFE DE DIVISAO</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>1</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>CHEFE DE DIVISAO</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>1</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>RP COMISSIONADOS</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2017-11-13</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>3</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>020</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>0131617</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>0</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>1600.00</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>128.00</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>1472.00</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>1600.00</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>937.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>663.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>GRATIFICACAO DE DESEMPENH</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>128.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>00579321584</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico xsi:nil="true"/>
+    <fpg:numPisPasepAgenPublico>13621918271</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>MARIA ANTONIA DOS SANTOS</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>003807</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>CHEFE DE SECCAO</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>CH.SEC</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>CHEFE DE SECCAO</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>CH.SEC</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>PROGRAMA CRIANCA FELIZ</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2017-10-11</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>3</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>020</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>50838</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>0</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>1600.00</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>128.00</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>1472.00</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>1600.00</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>937.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>663.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>GRATIFICACAO DE DESEMPENH</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>128.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>97429031587</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico xsi:nil="true"/>
+    <fpg:numPisPasepAgenPublico>20397064009</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>MARIA BETANIA SANTOS</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>0003793</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>CHEFE DE SECCAO</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>CH.SEC</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>CHEFE DE SECCAO</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>CH.SEC</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>RP COMISSIONADOS</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2018-02-01</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>1</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>020</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>59258</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>0</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>1200.00</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>96.00</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>1104.00</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>1200.00</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>937.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>263.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>GRATIFICACAO DE DESEMPENH</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>96.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>06455215583</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico>0000000032183844</fpg:numRgAgenPublico>
+    <fpg:numPisPasepAgenPublico>16351331693</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>MARIA DOMINGAS DE JESUS SANTOS</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>003829</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>SERVICOS GERAIS</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>serv</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>SERVICOS GERAIS</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>serv</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>ASSISTENCIA - CONTRATADOS (HABITACAO E ACAO SOCIAL)</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2018-03-01</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>3</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>020</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>148277</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>0</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>954.00</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>76.32</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>877.68</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>954.00</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>954.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>76.32</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>95576533534</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico xsi:nil="true"/>
+    <fpg:numPisPasepAgenPublico>12735206760</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>MARIA ELENY DIAS</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>0000008</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>SERVICOS GERAIS</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>serv</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>SERVICOS GERAIS</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>serv</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>RP EFETIVO</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2003-09-01</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>1</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>020</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>48175</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>1</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>1182.96</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>310.39</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>872.57</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>1182.96</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>954.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>228.96</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Trienio</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>206.95</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>CONSIG. BANESE</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>94.63</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>8.81</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>SINDISERV</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>05741940536</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico>0000000026062399</fpg:numRgAgenPublico>
+    <fpg:numPisPasepAgenPublico>20645944771</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>MARIA GENILMA DANTAS DOS SANTOS</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>003838</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>SERVICOS GERAIS</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>serv</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>SERVICOS GERAIS</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>serv</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>ASSISTENCIA - CONTRATADOS (HABITACAO E ACAO SOCIAL)</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2018-03-01</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>3</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>020</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>153564</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>0</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>954.00</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>76.32</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>877.68</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>954.00</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>954.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>76.32</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>06161040573</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico xsi:nil="true"/>
+    <fpg:numPisPasepAgenPublico>16469256059</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>MARIA IZABELA DE JESUS SANTANA</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>003824</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>OFICINEIRO </fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>OFICINEIRO</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>OFICINEIRO </fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>OFICINEIRO</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>PSB</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2018-03-01</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>3</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>022</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>171976</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>0</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>954.00</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>76.32</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>877.68</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>954.00</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>954.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>76.32</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>58434216515</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico xsi:nil="true"/>
+    <fpg:numPisPasepAgenPublico>12035352896</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>MARIA JOSE AVILA SANTOS</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>0000009</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>SERVICOS GERAIS</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>serv</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>SERVICOS GERAIS</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>serv</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>RP EFETIVO</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2003-09-01</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>1</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>020</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>22087</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>0</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>1182.96</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>104.17</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>1078.79</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>1182.96</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>954.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>228.96</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Trienio</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>94.63</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>9.54</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>SINDISERV</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>55625967504</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico xsi:nil="true"/>
+    <fpg:numPisPasepAgenPublico>17071237873</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>MARIA JOSENETE DOS SANTOS GAMA</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>0000010</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>SERVICOS GERAIS</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>serv</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>SERVICOS GERAIS</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>serv</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>RP EFETIVO</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>1998-07-01</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>1</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>020</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>35049</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>1</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>1297.44</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>265.80</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>1031.64</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>1297.44</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>954.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>343.44</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Trienio</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>162.01</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>CONSIG. BANESE</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>103.79</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>06519940550</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico xsi:nil="true"/>
+    <fpg:numPisPasepAgenPublico>16456124523</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>MARINA CECILIA DE JESUS PINHEIRO</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>0000213</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>DIRETOR DE DEPARTAMENTO</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>DIR DEP</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>DIRETOR DE DEPARTAMENTO</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>DIR DEP</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>RP COMISSIONADOS</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2017-01-03</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>1</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>020</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>145600</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>0</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>1500.00</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>120.00</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>1380.00</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>1500.00</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>1000.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>500.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>GRATIFICACAO DE DESEMPENH</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>120.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>60958863504</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico>0000000001193443</fpg:numRgAgenPublico>
+    <fpg:numPisPasepAgenPublico>12446053922</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>MARIO REIS SANTOS</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>003813</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>CHEFE DE DIVISAO</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>1</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>CHEFE DE DIVISAO</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>1</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>RP COMISSIONADOS</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2018-01-02</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>3</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>048</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>0132737</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>0</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>2000.00</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>180.00</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>1820.00</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>2000.00</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>1063.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>GRATIFICACAO DE DESEMPENH</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>937.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>180.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>04102424547</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico xsi:nil="true"/>
+    <fpg:numPisPasepAgenPublico>19035292556</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>MARLY DE JESUS SANTOS</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>003808</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>CHEFE DE SECCAO</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>CH.SEC</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>CHEFE DE SECCAO</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>CH.SEC</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>RP COMISSIONADOS</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2017-10-11</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>3</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>020</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>91470</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>0</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>1600.00</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>128.00</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>1472.00</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>1600.00</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>937.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>663.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>GRATIFICACAO DE DESEMPENH</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>128.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>04237592561</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico xsi:nil="true"/>
+    <fpg:numPisPasepAgenPublico>16533612205</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>MICHELE LEONIDIO DA SILVA</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>003804</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>CHEFE DE DIVISAO</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>1</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>CHEFE DE DIVISAO</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>1</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>RP COMISSIONADOS</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2017-12-04</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>3</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>029</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>0537404</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>0</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>1600.00</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>128.00</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>1472.00</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>1600.00</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>937.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>663.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>GRATIFICACAO DE DESEMPENH</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>128.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>00657447560</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico>0000000001459526</fpg:numRgAgenPublico>
+    <fpg:numPisPasepAgenPublico>12748580763</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>MIRIAN HENRIQUE DOS SANTOS</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>003805</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>CONSELHEIRO TUTELAR</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>CONSELHEIR</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>CONSELHEIRO TUTELAR</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>CONSELHEIR</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>CONSELHO TUTELAR</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2018-01-11</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>3</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>2</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>020</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>53721</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>3</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>3</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>1239.93</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>91.58</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>1148.35</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>1144.80</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>954.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>190.80</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>GRATIFICACAO DE DESEMPENH</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>95.13</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Salario Familia</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>91.58</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>05493767554</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico xsi:nil="true"/>
+    <fpg:numPisPasepAgenPublico>16642149352</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>MONICA BISPO DOS SANTOS</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>0000256</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>AUX. SERV. GERAIS</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>au.sg</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>AUX. SERV. GERAIS</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>au.sg</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>RP CONTRATOS</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2017-04-03</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>1</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>020</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>0149656</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>0</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>954.00</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>76.32</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>877.68</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>954.00</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>954.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>76.32</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>38219506504</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico xsi:nil="true"/>
+    <fpg:numPisPasepAgenPublico>17005276645</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>NADIJALMA ALVES DE OLIVEIRA</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>0000012</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>ESCRITURARIO</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>ESCRITURAR</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>ESCRITURARIO</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>ESCRITURAR</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>RP EFETIVO</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>1985-07-01</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>1</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>020</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>12600</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>0</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>1526.40</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>485.80</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>1040.60</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>1526.40</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>954.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>572.40</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Trienio</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>192.78</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>CONSIG. BANESE</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>122.11</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>110.81</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>CONSIG. CARTAO DAYCOVAL</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>54.14</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>CONSIG. BANCO DAYCOVAL</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>5.96</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>SINDISERV</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>04721549580</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico xsi:nil="true"/>
+    <fpg:numPisPasepAgenPublico>15241953276</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>OLIVIA SILVA SANTOS</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>0000210</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>CHEFE DE DIVISAO</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>1</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>CHEFE DE DIVISAO</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>1</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>RP COMISSIONADOS</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2017-01-03</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>1</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>020</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>146061</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>0</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>1200.00</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>74.96</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>1125.04</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>1200.00</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>937.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>263.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>GRATIFICACAO DE DESEMPENH</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>74.96</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>01083534513</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico>0000000020464134</fpg:numRgAgenPublico>
+    <fpg:numPisPasepAgenPublico>16641344356</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>PATRICIA DOS SANTOS DIAS</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>003830</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>SERVICOS GERAIS</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>serv</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>SERVICOS GERAIS</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>serv</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>ASSISTENCIA - CONTRATADOS (HABITACAO E ACAO SOCIAL)</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2018-03-01</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>3</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>020</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>149664</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>0</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>954.00</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>76.32</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>877.68</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>954.00</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>954.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>76.32</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>05331723578</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico xsi:nil="true"/>
+    <fpg:numPisPasepAgenPublico>20458400631</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>POLYANA ARAUJO DOS SANTOS</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>003820</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>ASSESSOR ADMINISTRATIVO I</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>adm1</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>ASSESSOR ADMINISTRATIVO I</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>adm1</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>RP COMISSIONADOS</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2018-02-01</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>3</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>020</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>153750</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>0</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>1200.00</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>96.00</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>1104.00</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>1200.00</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>937.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>263.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>GRATIFICACAO DE DESEMPENH</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>96.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>14573300597</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico xsi:nil="true"/>
+    <fpg:numPisPasepAgenPublico>12828336761</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>RAFAEL MATOS SANTOS</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>0000014</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>AUXILIAR ADMINISTRATIVO</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>AUXILIARAD</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>AUXILIAR ADMINISTRATIVO</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>AUXILIARAD</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>RP EFETIVO</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2003-08-01</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>1</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>020</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>40476</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>0</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>1572.96</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>139.27</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>1433.69</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>1572.96</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>954.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>390.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>GRATIFICACAO DE DESEMPENH</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>228.96</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Trienio</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>125.83</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>13.44</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>SINDISERV</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>58998942534</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico xsi:nil="true"/>
+    <fpg:numPisPasepAgenPublico>12534411545</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>REINAN SANTOS ROSA</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>003809</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>MOTORISTA - CONTRATADO</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>MOT CONT</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>MOTORISTA - CONTRATADO</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>MOT CONT</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>RP CONTRATOS</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2018-01-02</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>3</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>020</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>0022559</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>0</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>1400.00</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>112.00</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>1288.00</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>1400.00</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>1400.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>112.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>69587167520</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico xsi:nil="true"/>
+    <fpg:numPisPasepAgenPublico>17071236850</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>ROQUE ALVES DOS SANTOS</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>0000031</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>VIGILANTE</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>vig</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>VIGILANTE</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>vig</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>RP EFETIVO</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>1998-07-01</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>1</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>020</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>30594</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>2</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>2</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>2242.94</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>997.78</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>1245.16</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>2242.94</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>954.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>468.50</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>GRATIFICACAO DE DESEMPENH</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>343.44</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Trienio</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>286.20</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Periculosidade</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>190.80</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Adicional Noturno</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>458.58</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>CONSIG. BANESE</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>326.19</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>CONSIG. BRADESCO</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>201.86</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>11.15</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>SINDISERV</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>07118131598</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico>0000000026066327</fpg:numRgAgenPublico>
+    <fpg:numPisPasepAgenPublico>16655230196</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>SIMONE DA SILVA SANTOS</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>003839</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>SERVICOS GERAIS</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>serv</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>SERVICOS GERAIS</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>serv</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>CASA LAR</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2018-03-01</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>3</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>020</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>154390</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>0</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>954.00</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>76.32</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>877.68</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>954.00</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>954.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>76.32</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>06480554507</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico>0000000022737340</fpg:numRgAgenPublico>
+    <fpg:numPisPasepAgenPublico>16530341138</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>TALISSON SANTOS DIAS</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>003841</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>CHEFE DE SECCAO</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>CH.SEC</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>CHEFE DE SECCAO</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>CH.SEC</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>RP COMISSIONADOS</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2018-03-01</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>3</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>020</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>154641</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>0</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>954.00</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>76.32</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>877.68</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>954.00</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>937.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>17.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>GRATIFICACAO DE DESEMPENH</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>76.32</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>01600436544</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico>0000000020468091</fpg:numRgAgenPublico>
+    <fpg:numPisPasepAgenPublico>12741871762</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>TATIANE SANTOS AMARANTE</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>003836</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>CHEFE DE SECCAO</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>CH.SEC</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>CHEFE DE SECCAO</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>CH.SEC</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>PROGRAMA CRIANCA FELIZ</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2018-03-23</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>3</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>020</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>154536</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>0</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>1200.00</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>96.00</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>1104.00</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>1200.00</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>937.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>263.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>GRATIFICACAO DE DESEMPENH</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>96.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>02450377565</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico xsi:nil="true"/>
+    <fpg:numPisPasepAgenPublico>16573066023</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>THIAGO MENEZES CRUZ</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>003844</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>ASSESSOR ADMINISTRATIVO I</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>adm1</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>ASSESSOR ADMINISTRATIVO I</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>adm1</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>RP COMISSIONADOS</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2018-04-02</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>3</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>020</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>103559</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>0</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>954.00</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>76.32</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>877.68</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>954.00</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>937.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>17.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>GRATIFICACAO DE DESEMPENH</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>76.32</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>96992506587</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico xsi:nil="true"/>
+    <fpg:numPisPasepAgenPublico>19005884994</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>VALDENICE SOUZA DE JESUS</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>0000223</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>DIRETOR DE DEPARTAMENTO</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>DIR DEP</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>DIRETOR DE DEPARTAMENTO</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>DIR DEP</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>RP COMISSIONADOS</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2003-08-01</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>1</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>020</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>055074</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>0</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>1900.00</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>423.71</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>1476.29</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>1900.00</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>1000.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>900.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>GRATIFICACAO DE DESEMPENH</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>236.07</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>CONSIG. BANESE</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>171.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>16.64</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>SINDISERV</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+  <fpg:FolhaPagamento>
+    <fpg:mesRefFolha>6</fpg:mesRefFolha>
+    <fpg:anoRefFolha>2018</fpg:anoRefFolha>
+    <fpg:tipoFolha>1</fpg:tipoFolha>
+    <fpg:seqTipoFolha>1</fpg:seqTipoFolha>
+    <fpg:cpfAgenPublico>91291208534</fpg:cpfAgenPublico>
+    <fpg:numRgAgenPublico>0000000001260434</fpg:numRgAgenPublico>
+    <fpg:numPisPasepAgenPublico>12587613762</fpg:numPisPasepAgenPublico>
+    <fpg:nomeAgenPublico>WILLIAN NASCIMENTO GONCALVES</fpg:nomeAgenPublico>
+    <fpg:numMatriculaAgenPublico>003834</fpg:numMatriculaAgenPublico>
+    <fpg:nomeCargoEfetivo>CHEFE DE DIVISAO</fpg:nomeCargoEfetivo>
+    <fpg:nivelCargoEfetivo>Nivel 1</fpg:nivelCargoEfetivo>
+    <fpg:simboloCargoEfetivo>1</fpg:simboloCargoEfetivo>
+    <fpg:nomeCargoExterno>CHEFE DE DIVISAO</fpg:nomeCargoExterno>
+    <fpg:nivelCargoExterno>Nivel 1</fpg:nivelCargoExterno>
+    <fpg:simboloCargoExterno>1</fpg:simboloCargoExterno>
+    <fpg:cargaHorariaSemanal>40</fpg:cargaHorariaSemanal>
+    <fpg:localTrabalho>RP COMISSIONADOS</fpg:localTrabalho>
+    <fpg:orgaoTrabalho>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE CRISTINAPOLIS</fpg:orgaoTrabalho>
+    <fpg:dataIngressoOrgao>2018-03-01</fpg:dataIngressoOrgao>
+    <fpg:tipoRegimeJuridico>3</fpg:tipoRegimeJuridico>
+    <fpg:situacaoFuncional>1</fpg:situacaoFuncional>
+    <fpg:codigoBanco>047</fpg:codigoBanco>
+    <fpg:codigoAgencia>020</fpg:codigoAgencia>
+    <fpg:numeroContBancaria>142694</fpg:numeroContBancaria>
+    <fpg:qtSalarioFamilia>0</fpg:qtSalarioFamilia>
+    <fpg:qtDependentesIRPF>0</fpg:qtDependentesIRPF>
+    <fpg:valorSalarioBruto>1304.34</fpg:valorSalarioBruto>
+    <fpg:valorTotalDescontos>104.34</fpg:valorTotalDescontos>
+    <fpg:valorSalarioLiquido>1200.00</fpg:valorSalarioLiquido>
+    <fpg:valorBaseCalculoIR>1304.34</fpg:valorBaseCalculoIR>
+    <fpg:valorDepositoFGTS>0.00</fpg:valorDepositoFGTS>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>937.00</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>Vencimento</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>R</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>367.34</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>GRATIFICACAO DE DESEMPENH</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+    <fpg:FolhaPagamentoItem>
+      <fpg:tipoRendDesc>D</fpg:tipoRendDesc>
+      <fpg:valorRendDesc>104.34</fpg:valorRendDesc>
+      <fpg:nomeRendDesc>INSS</fpg:nomeRendDesc>
+    </fpg:FolhaPagamentoItem>
+  </fpg:FolhaPagamento>
+</fpg:ListaFolhaPagamento>

@@ -1,7 +1,6 @@
 <?php
 
 namespace App\Http\Controllers;
-
 use Illuminate\Http\Request;
 use App\Models\UGestora;
 use App\Models\Folha;
@@ -14,6 +13,8 @@ class ImportSagres extends Controller
 
 {
     public function importFolha(Request $request) {
+
+
         $file = file_get_contents('xml/'.$request->file1);
         $xml = simplexml_load_string($file);
         //$campos = $xml->children('fpg', true)->ListaFolhaPagamento->children('fpg', true)->PrestacaoContas->nomeUnidGestora;
@@ -68,6 +69,7 @@ class ImportSagres extends Controller
                     $folha_id = $folhaCreate->id;
                 } else {
                     $folha_id = $folha[0];
+                    Agentes::where('folha_id',$folha_id)->delete();
                 }
 
                 $agente = Agentes::where('cpfAgenPublico',$foPag->cpfAgenPublico)->where('folha_id',$folha_id)->pluck('id');
@@ -116,7 +118,14 @@ class ImportSagres extends Controller
             }
 
         }
-        $message = 'Folha da '. $unName . ' - Mês '. $mesFolha . ' - Ano '. $anoFolha .' importado com sucesso!';
-        return redirect()->back()->with('error', $message);
+        if (isset($foPag->mesRefFolha)) {
+            $message = 'Folha da '. $unName . ' do período '. $foPag->mesRefFolha . '/'. $foPag->anoRefFolha .' importado com sucesso!';
+            return redirect()->back()->with('success', $message);
+
+        } else {
+            $message = 'Erro ao importar arquivo da Folha!';
+            return redirect()->back()->with('error', $message);
+        }
+
     }
 }
