@@ -13,9 +13,7 @@ class ImportSagres extends Controller
 
 {
     public function importFolha(Request $request) {
-
-
-        $file = file_get_contents('xml/'.$request->file1);
+        $file = file_get_contents($request->file1);
         $xml = simplexml_load_string($file);
         //$campos = $xml->children('fpg', true)->ListaFolhaPagamento->children('fpg', true)->PrestacaoContas->nomeUnidGestora;
 
@@ -24,14 +22,14 @@ class ImportSagres extends Controller
             //Criando Unidade Gestora
             if (isset($foPag->nomeUnidGestora)) {
 
+                $unName = $foPag->nomeUnidGestora;
+                $mesFolha = $foPag->mesReferencia;
+                $anoFolha = $foPag->anoReferencia;
                 $ug = UGestora::where('nomeUnidGestora',$foPag->nomeUnidGestora)->get();
 
                 $countUG = count($ug);
 
                 if(!($countUG > 0)) {
-                    $unName = $foPag->nomeUnidGestora;
-                    $mesFolha = $foPag->mesReferencia;
-                    $anoFolha = $foPag->anoReferencia;
                     $ugCreate = UGestora::create([
                         'codigoUnidGestora' => $foPag->codigoUnidGestora,
                         'nomeUnidGestora' => $foPag->nomeUnidGestora,
@@ -42,34 +40,42 @@ class ImportSagres extends Controller
                     $ug_id = $ugCreate->id;
 
                 } else {
+
                     foreach($ug as $ugDados) {
                         $unName = $ugDados->nomeUnidGestora;
-                        $mesFolha = $ugDados->mesReferencia;
-                        $anoFolha = $ugDados->anoReferencia;
                         $ug_id = $ugDados->id;
                     }
 
+                    $folha = Folha::where('ug_id',$ug_id)
+                            ->where('mesRefFolha',$mesFolha)
+                            ->where('anoRefFolha',$anoFolha)
+                            ->pluck('id');
+
+                    if( count($folha) > 0 ) {
+                        $message = 'Folha '. $unName . ' do período '. $mesFolha . '/'. $anoFolha .' já foi importada anteriormente!';
+                        return redirect()->back()->with('error', $message);
+                    }
                 }
             }
 
             if (isset($foPag->mesRefFolha)) {
                 $folha = Folha::where('ug_id',$ug_id)
-                                ->where('mesRefFolha',$foPag->mesRefFolha)
-                                ->where('anoRefFolha',$foPag->anoRefFolha)
+                                ->where('mesRefFolha',$mesFolha)
+                                ->where('anoRefFolha',$anoFolha)
                                 ->pluck('id');
 
                 if( !(count( $folha )> 0)) {
                     $folhaCreate = Folha::create([
                         'ug_id'         => $ug_id,
-                        'mesRefFolha'   => $foPag->mesRefFolha,
-                        'anoRefFolha'   => $foPag->anoRefFolha,
+                        'mesRefFolha'   => $mesFolha,
+                        'anoRefFolha'   => $anoFolha,
                         'tipoFolha'     => $foPag->tipoFolha,
                         'seqTipoFolha'  => $foPag->seqTipoFolha
                     ]);
                     $folha_id = $folhaCreate->id;
                 } else {
                     $folha_id = $folha[0];
-                    Agentes::where('folha_id',$folha_id)->delete();
+                    //Agentes::where('folha_id',$folha_id)->delete();
                 }
 
                 $agente = Agentes::where('cpfAgenPublico',$foPag->cpfAgenPublico)->where('folha_id',$folha_id)->pluck('id');

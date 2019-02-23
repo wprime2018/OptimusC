@@ -10,7 +10,6 @@ class Agentes extends Model
     // Abaixo informo quais os campos da tabela podem ser preenchidas
     protected $fillable = [
             'folha_id',
-            'mesRefFolha',
             'cpfAgenPublico',
             'numRgAgenPublico',
             'numPisPasepAgenPublico',

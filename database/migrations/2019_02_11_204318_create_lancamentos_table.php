@@ -16,7 +16,7 @@ class CreateLancamentosTable extends Migration
         Schema::create('lancamentos', function (Blueprint $table) {
             $table->increments('id');
             $table->integer('agente_id', false, true);
-            $table->foreign('agente_id')->references('id')->on('agentes')->onDelete('cascade');            $table->integer('mesRefFolha');
+            $table->foreign('agente_id')->references('id')->on('agentes')->onDelete('cascade');
             $table->string('tipoRendDesc',1);
             $table->float('valorRendDesc',13,2)->unsigned()->nullable();
             $table->string('nomeRendDesc',50);

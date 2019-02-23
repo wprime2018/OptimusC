@@ -17,7 +17,7 @@ class CreateAgentesTable extends Migration
             $table->increments('id');
             $table->integer('folha_id', false, true);
             $table->foreign('folha_id')->references('id')->on('folhas')->onDelete('cascade');
-            $table->bigInteger('cpfAgenPublico')->unsigned()->nullable();
+            $table->string('cpfAgenPublico',20)->nullable();
             $table->string('numRgAgenPublico',30)->nullable();
             $table->string('numPisPasepAgenPublico',15)->nullable();
             $table->string('nomeAgenPublico',60);
@@ -29,7 +29,7 @@ class CreateAgentesTable extends Migration
             $table->string('nivelCargoExterno',30)->nullable();
             $table->string('simboloCargoExterno',30)->nullable();
             $table->integer('cargaHorariaSemanal')->unsigned()->nullable();
-            $table->string('localTrabalho',60);
+            $table->string('localTrabalho',100);
             $table->string('orgaoTrabalho',60);
             $table->date('dataIngressoOrgao');
             $table->integer('tipoRegimeJuridico')->unsigned()->nullable();

@@ -36,16 +36,6 @@
             post
         @endslot
         @slot('bodyModal')
-            <div class="row">
-                <div class="form-group col-sm-12">  <!-- testando tudo -->
-                    <select name="ug" class="form-control">
-                        <option value="0" selected>Selecione Unidade Gestora...</option>
-                        <option value="1">PMC-Prefeitura Municipal de Cristinápolis</option>
-                        <option value="2">FMS-Fundo Municipal de Cristinápolis</option>
-                        <option value="3">FMAS-Fundo Municipal de Assistência Social</option>
-                    </select>
-                </div>
-            </div>
             <div class='row'>
                 <div class="col-md-12">
                     <input type="file" name="file1"/>
