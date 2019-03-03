@@ -19,3 +19,4 @@ Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
 Route::post('/importSagres', 'ImportSagres@importFolha')->name('importSagres');
+Route::post('/importSenior', 'Painel\ImportSenior@importFunc')->name('importSenior');

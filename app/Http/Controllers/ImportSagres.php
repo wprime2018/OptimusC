@@ -6,6 +6,16 @@ use App\Models\UGestora;
 use App\Models\Folha;
 use App\Models\Agentes;
 use App\Models\Lancamento;
+use App\Models\Funcionarios;
+use App\Models\FuncLots;
+use App\Models\FuncCargos;
+use App\Models\FuncComp;
+use App\Models\FuncDadosBanc;
+use App\Models\FuncDeparts;
+use App\Models\FuncDepend;
+use App\Models\FuncTipoCargo;
+use App\Models\FuncVinc;
+
 use Illuminate\Validation\Rules\Exists;
 use Carbon\Carbon;
 use DB;

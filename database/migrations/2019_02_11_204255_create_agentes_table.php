@@ -36,7 +36,7 @@ class CreateAgentesTable extends Migration
             $table->integer('situacaoFuncional')->unsigned()->nullable();
             $table->string('codigoBanco',10)->nullable();
             $table->string('codigoAgencia',10)->nullable();
-            $table->string('numeroContBancaria',10)->nullable();
+            $table->string('numeroContBancaria',20)->nullable();
             $table->integer('qtSalarioFamilia')->unsigned()->nullable();
             $table->integer('qtDependentesIRPF')->unsigned()->nullable();
             $table->float('valorSalarioBruto',13,2)->unsigned()->nullable();

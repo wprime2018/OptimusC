@@ -12,6 +12,8 @@
                         <div class="form-group col-md-12">
                             <a data-toggle="modal" data-target="b1" id="btnModal1" class="btn btn-primary btn-lg active btn-add">
                                 <span class="glyphicon glyphicon-shopping-cart"></span>Importar SAGRES</a>
+                            <a data-toggle="modal" data-target="b2" id="btnModal2" class="btn btn-primary btn-lg active btn-add">
+                                <span class="glyphicon glyphicon-shopping-cart"></span>Importar Senior</a>
                         </div>
                     </div>
                 </div>
@@ -47,10 +49,61 @@
         @endslot
     @endcomponent
 
+    @component('modals.modal_primary')
+        @slot('txtBtnModal')
+            Importar Base da Senior
+        @endslot
+        @slot('triggerModal')
+            b2
+        @endslot
+        @slot('tituloModal')
+            Infome os dados
+        @endslot
+        @slot('actionModal')
+            Painel\ImportSenior@importFunc
+        @endslot
+        @slot('methodModal')
+            post
+        @endslot
+        @slot('bodyModal')
+            <div class='row'>
+                <div class="col-md-12">
+                    <input type="file" name="file1"/>
+                </div>
+            </div>
+            <div class='row'>
+                <div class="col-md-12">
+                    <input type="file" name="file2"/>
+                </div>
+            </div>
+            <div class='row'>
+                <div class="col-md-12">
+                    <input type="file" name="file3"/>
+                </div>
+            </div>
+            <div class='row'>
+                <div class="col-md-12">
+                    <input type="file" name="file4"/>
+                </div>
+            </div>
+            <div class='row'>
+                <div class="col-md-12">
+                    <input type="file" name="file5"/>
+                </div>
+            </div>
+        @endslot
+        @slot('btnConfirmar')
+            Importar
+        @endslot
+    @endcomponent
+
     <script type="text/javascript">
         $(document).ready(function(){
             $("#btnModal1").click(function(){
                 $("#b1").modal('show');
+            });
+            $("#btnModal2").click(function(){
+                $("#b2").modal('show');
             });
         });
     </script>
