@@ -19,6 +19,9 @@ use App\Models\FuncDeparts;
 use App\Models\FuncDepend;
 use App\Models\FuncTipoCargo;
 use App\Models\FuncVinc;
+use App\Models\Evento;
+use App\Models\Calendario;
+use App\Models\Verba;
 use Carbon\Carbon;
 use DB;
 use Auth;
@@ -27,9 +30,13 @@ class ImportSenior extends Controller
 {
     public function importFunc(Request $request) {
         
+        if($request->file('file3'))
+        {
+            importSenior::importVerbas($request);
+        }
         if($request->file('file2'))
         {
-            importCargos($request);
+            importSenior::importEventos($request);
         }
         if($request->file('file1'))
         {
@@ -78,81 +85,99 @@ class ImportSenior extends Controller
                         if($countFunc > 0)
                         {
                             foreach ($idFunc as $id => $value) {
-                                $idFunc = $value;
+                                $idFunc = $value->id;
                             }
+                            
+                            $idVinc = FuncVinc::where('ug_id',$ug_id)->where('func_id',$idFunc)->orderby('dataAdmissao', 'desc')->limit(1)->get();
+                            
+                            foreach ($idVinc as $id => $value) { $idVin = $value->id; $dataAdmissao = $value->dataAdmissao;}
 
-                            $idVinc = FuncVinc::where('ug_id',$ug_id)
-                                                ->where('func_id',$idFunc)
-                                                ->orderby('dataAdmissao')
-                                                ->max('dataAdmissao')
-                                                ->get('id','dataAdmissao');
-                            if (($idVinc->id > 0) && ($idVinc->dataAdmissao != $row['datadm']))   
-                            {
-                                //Find Vinc but dataAdmissao not equal
-                                
-                                $dataArrayFuncVinc = [
-                                    'ug_id' => $ug_id,
-                                    'func_id' => $idFunc->id,
-                                    'tipoVinculo' => $row['tipadm'],
-                                    'dataAdmissao' => $row['datadm'],
-                                    'cargo_id' => $row['codcar'],
-                                    'userAdmissao' => Auth::user()->id
-                                ];
+                            try {
+                                $dataAdmSenior = $row['datadm'];
+                                if (($idVin > 0) && ($dataAdmissao != $dataAdmSenior)) {
+                                    //Find Vinc but dataAdmissao not equal
+                                    
+                                    $idCargo = FuncCargos::where('codCargo',$row['codcar'])->get();
+                                    if (count($idCargo)>0) {
+                                        foreach ($idCargo as $key => $value) { $idCargo = $value->id; }
+                                    }
+    
+                                    $dataArrayFuncVinc = [
+                                        'ug_id' => $ug_id,
+                                        'func_id' => $idFunc,
+                                        'tipoVinculo' => $row['tipadm'],
+                                        'matricula' => $row['numcad'],
+                                        'dataAdmissao' => $row['datadm'],
+                                        'cargo_id' => $idCargo,
+                                        'userAdmissao' => Auth::user()->id
+                                    ];
+    
+                                    $createFuncVinc = FuncVinc::create($dataArrayFuncVinc);
+                                }
 
-                                $createFuncVinc = FuncVinc::create($dataArrayFuncVinc);
+                            } catch (\Throwable $th) {
+                                dd(compact('idVin', 'dataAdmissao','dataAdmSenior'));
                             }
                         } 
                         else 
                         {
                             $createFunc = Funcionarios::create($dataArrayFunc);
+                            
                             $func_id = $createFunc->id;
+                            
+                            $idCargo = FuncCargos::where('codCargo',$row['codcar'])->get();
+                            
+                            if (count($idCargo)>0) { 
+                                foreach ($idCargo as $key => $value) { $idCargo = $value->id; }
+                            }
 
                             $dataArrayFuncVinc = [
                                 'ug_id' => $ug_id,
                                 'func_id' => $func_id,
                                 'tipoVinculo' => $row['tipadm'],
+                                'matricula' => $row['numcad'],
                                 'dataAdmissao' => $row['datadm'],
-                                'cargo_id' => $row['codcar'],
+                                'cargo_id' => $idCargo,
                                 'userAdmissao' => Auth::user()->id
                             ];
                             $createFuncVinc = FuncVinc::create($dataArrayFuncVinc);
+
+                            $dataArrayFuncComp =
+                            [
+                                'func_id' => $func_id,
+                                'dataNasc' => $row['datnas'],
+                                'numPis' => $row['numpis'],
+                                'tipSex' => $row['tipsex'],
+                                'tipcon' => $row['tipcon'],
+                                'estCivil' => $row['estciv'],
+                                'numCTPS' => $row['numctp'],
+                                'serCTPS' => $row['serctp'],
+                                'estCTPS' => $row['estctp'],
+                                'dtExpCTPS' => $row['dexctp'],
+                            ];
+    
+                            $createFuncComp = FuncComp::create($dataArrayFuncComp);
+    
+                            $dataArrayFuncDadosBanc =
+                            [
+                                'func_id' => $func_id,
+                                'codBanco' => $row['codban'],
+                                'codAg' => $row['codage'],
+                                'numContBan' => $row['conban'],
+                                'dvContBan' => $row['digban'],
+                                'tipoConta' => 0,
+                            ];
+                            $createFuncDadosBanc = FuncDadosBanc::create($dataArrayFuncDadosBanc);
+    
                         }   
-
-                        $dataArrayFuncComp =
-                        [
-                            'func_id' => $func_id,
-                            'dataNasc' => $row['datnas'],
-                            'numPis' => $row['numpis'],
-                            'tipSex' => $row['tipsex'],
-                            'tipcon' => $row['tipcon'],
-                            'estCivil' => $row['estciv'],
-                            'numCTPS' => $row['numctp'],
-                            'serCTPS' => $row['serctp'],
-                            'estCTPS' => $row['estctp'],
-                            'dtExpCTPS' => $row['dexctp'],
-                        ];
-
-                        $createFuncComp = FuncComp::create($dataArrayFuncComp);
-
-                        $dataArrayFuncDadosBanc =
-                        [
-                            'func_id' => $func_id,
-                            'codBanco' => $row['codban'],
-                            'codAg' => $row['codage'],
-                            'numContBan' => $row['conban'],
-                            'dvContBan' => $row['digban'],
-                            'tipoConta' => 0,
-                        ];
-                        $createFuncDadosBanc = FuncDadosBanc::create($dataArrayFuncDadosBanc);
                     }
                 }
                 return back();
             }
         }
     }
-
-    public function importCargos(Request $request) {
-        
+    public function importEventos(Request $request) 
+    {
         if($request->file('file2'))
         {
             $path = $request->file('file2')->getRealPath();
@@ -171,6 +196,54 @@ class ImportSenior extends Controller
                     {
                         // Começando os testes dos dados para ajustar ao DB Atual
                         
+                        $dataArrayEvento = [
+                            'codtab' => $row['codtab'],
+                            'codeve' => $row['codeve'],
+                            'deseve' => $row['deseve'],
+                            'crteve' => $row['crteve'],
+                            'codcrt' => $row['codcrt'],
+                            'horuti' => $row['horuti'],
+                            'rgreve' => $row['rgreve'],
+                            'rgresp' => $row['rgresp'],
+                            'tipeve' => $row['tipeve'],
+                            'nateve' => $row['nateve'],
+                            'valcal' => $row['valcal'],
+                            'valtet' => $row['valtet'],
+                            'codclc' => $row['codclc'],
+                            'tipinf' => $row['tipinf'],
+                            'dimnor' => $row['dimnor'],
+                            'gereve' => $row['gereve'],
+                            'prjeve' => $row['prjeve'],
+                            'rateve' => $row['rateve'],
+                            'rempat' => $row['rempat']
+                        ];
+                        $createEvento = Evento::create($dataArrayEvento);
+                    }
+                }
+            }
+        }
+    }
+    public function importVerbas(Request $request) 
+    {
+        if($request->file('file3'))
+        {
+            $path = $request->file('file3')->getRealPath();
+            $data = Excel::load($path, function($reader) {})->get();
+
+            $dataImport[] = [
+                'path_file' => $path
+            ];
+    
+            if(!empty($data) && $data->count())
+            {
+                $i = 0;
+                
+                foreach ($data->toArray() as $row)
+                {
+                    if(!empty($row))
+                    {
+                        ++$i;
+                        // Começando os testes dos dados para ajustar ao DB Atual
                         switch ($row['numemp']) {
                             case '1':
                                 $ug_id = 2;
@@ -182,21 +255,43 @@ class ImportSenior extends Controller
                                 $ug_id = 1;
                                 break;
                         }
-                        //table 'funcionarios'
-                        $ArrayCargos = [
-                            'ug_id' => $ug_id,
-                            'tipoCargo_id' => 2,
-                            'codCBO' => $row['codcbo'],
-                            'nomeCargo' => $row['titred'],
-                            'nivelCargo' => 'I',
-                            'simboloCargo' => 'CC-6',
-                            'cargaHorariaSemanal' => 40,
-                            'valorSalario' => 998.00
-                        ];
-                        $createFuncCargo = FuncCargos::create($ArrayCargos);
+
+                        $idVinc = FuncVinc::where('ug_id' ,$ug_id)->where('matricula',$row['numcad'])->get();
+                        $idCal = Calendario::where('ug_id' ,$ug_id)->where('codCal',$row['codcal'])->get();
+                        $idEven = Evento::where('codeve' ,$row['codeve'])->where('codtab',1)->get();
+
+                        foreach ($idVinc as $id => $value) 
+                        { 
+                            $vinc_id = $value->id; 
+                        }
+                        foreach ($idCal as $id2 => $value2) 
+                        { 
+                            $cal_id = $value2->id; 
+                        }
+                        foreach ($idEven as $id3 => $value3) 
+                        { 
+                            $even_id = $value3->id; 
+                        }
+
+                        if (!is_null($ug_id) ) {
+                            $dtArrayVerba[] = [
+                                'ug_id' => $ug_id,
+                                'vinc_id' => $vinc_id,
+                                'cal_id' => $cal_id,
+                                'evento_id' => $even_id,
+                                'qtdRef' => $row['refeve'],
+                                'valor' => $row['valeve'],
+                                'orientacao' => $row['orieve']
+                            ];
+                        }
+
+                        if ($i == 500) {
+                            Verba::insert($dtArrayVerba);
+                            $i = 0;
+                            $dtArrayVerba = [];
+                        }
                     }
                 }
-                return back();
             }
         }
     }

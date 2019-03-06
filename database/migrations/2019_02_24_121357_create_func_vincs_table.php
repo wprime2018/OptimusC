@@ -20,6 +20,7 @@ class CreateFuncVincsTable extends Migration
             $table->integer('func_id', false, true);
             $table->foreign('func_id')->references('id')->on('funcionarios')->onDelete('cascade');
             $table->smallInteger('tipoVinculo');
+            $table->smallInteger('matricula')->nullable();
             $table->dateTime('dataAdmissao');
             $table->dateTime('dataDemissao')->nullable();
             $table->integer('cargo_id', false, true);

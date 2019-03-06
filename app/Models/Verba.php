@@ -5,7 +5,7 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\SoftDeletes;
 
-class FuncVinc extends Model
+class Verba extends Model
 {
     use SoftDeletes;
 
@@ -16,18 +16,15 @@ class FuncVinc extends Model
      */
     protected $dates = ['deleted_at'];
 
-    protected $table = 'func_vincs';
+    protected $table = 'verbas';
     // Abaixo informo quais os campos da tabela podem ser preenchidas
     protected $fillable = [
             'ug_id',
-            'func_id',
-            'tipoVinculo',
-            'matricula',
-            'dataAdmissao',
-            'dataDemissao',
-            'cargo_id',
-            'userAdmissao',
-            'userDemissao'
-		    ];
-
+            'vinc_id',
+            'cal_id',
+            'evento_id',
+            'qtdRef',
+            'valor',
+            'orientacao'
+        ];
 }

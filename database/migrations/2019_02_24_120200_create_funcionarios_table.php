@@ -20,12 +20,12 @@ class CreateFuncionariosTable extends Migration
             $table->string('cpf',14)->nullable()->unique();
             $table->string('nome',60);
             $table->string('apelido',60)->nullable();
-            $table->string('matricula',10)->unique();
+            $table->string('matricula',10);
             $table->integer('tipoRegimeJuridico')->unsigned()->nullable();
             $table->integer('situacaoFuncional')->unsigned()->nullable();
             $table->integer('qtSalarioFamilia')->unsigned()->nullable();
             $table->integer('qtDependentesIRPF')->unsigned()->nullable();
-            $table->softDeletes();  
+            $table->softDeletes();
             $table->timestamps();
         });
     }
