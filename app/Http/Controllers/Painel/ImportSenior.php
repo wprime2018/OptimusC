@@ -295,4 +295,67 @@ class ImportSenior extends Controller
             }
         }
     }
+    public function importDadosComp(Request $request) 
+    {
+        if($request->file('file4'))
+        {
+            $path = $request->file('file4')->getRealPath();
+            $data = Excel::load($path, function($reader) {})->get();
+
+            $dataImport[] = [
+                'path_file' => $path
+            ];
+    
+            if(!empty($data) && $data->count())
+            {
+                try {
+                    foreach ($data->toArray() as $row)
+                    {
+                        if(!empty($row))
+                        {
+                            // Começando os testes dos dados para ajustar ao DB Atual
+                            switch ($row['numemp']) {
+                                case '1':
+                                    $ug_id = 2;
+                                    break;
+                                case '2':
+                                    $ug_id = 3;
+                                    break;
+                                case '3':
+                                    $ug_id = 1;
+                                    break;
+                            }
+                                
+                            $idVinc = FuncVinc::where('ug_id' ,$ug_id)->where('matricula',$row['numcad'])->get();
+    
+                            foreach ($idVinc as $id => $value) 
+                            { 
+                                $vinc_id = $value->id;
+                                $func_id = $value->func_id; 
+                            }
+                            if (!is_null($ug_id) ) {
+                                $dtArrayVerba = [
+                                    'ug_id' => $ug_id,
+                                    'func_id' => $vinc_id,
+                                    'cal_id' => $cal_id,
+                                    'evento_id' => $even_id,
+                                    'qtdRef' => $row['refeve'],
+                                    'valor' => $row['valeve'],
+                                    'orientacao' => $row['orieve']
+                                ];
+                            }
+                                $createEvento = Evento::create($dataArrayEvento);
+                        }
+                    }
+                    $message = 'Dados complementares importados com sucesso!';
+                    return redirect()->back()->with('success', $message);
+
+                } catch (\Throwable $th) {
+                    $message = 'Não conseguimos importar os dados complementares, verifique por favor!';
+                    return redirect()->back()->with('error', $message);
+        
+                }
+            }
+        }
+    }
 }

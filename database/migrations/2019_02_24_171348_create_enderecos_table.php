@@ -15,17 +15,20 @@ class CreateEnderecosTable extends Migration
     {
         Schema::create('enderecos', function (Blueprint $table) {
             $table->increments('id');
-            $table->string('origemEnd',1);
-            $table->string('tipoEnd',1);
+            $table->integer('func_id', false, true);
+            $table->foreign('func_id')->references('id')->on('funcionarios');
+            $table->integer('ug_id', false, true);
+            $table->foreign('ug_id')->references('id')->on('un_gestoras');
+            $table->integer('city_id', false, true);
+            $table->foreign('city_id')->references('id')->on('cities');
+            $table->integer('state_id', false, true);
+            $table->foreign('state_id')->references('id')->on('states');
+            $table->string('tipoEnd',1);        //0-Residencial 1-Comercial 2-Cobranca 3-Correspondencia
             $table->string('cep',9);
             $table->string('logradouro',50);
             $table->string('numero',10);
             $table->string('compl',30);
             $table->string('bairro',50);
-            $table->integer('city_id', false, true);
-            $table->foreign('city_id')->references('id')->on('cities');
-            $table->integer('country', false, true);
-            $table->foreign('country')->references('id')->on('states');
             $table->softDeletes();
             $table->timestamps();
         });
