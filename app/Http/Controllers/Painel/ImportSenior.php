@@ -353,7 +353,6 @@ class ImportSenior extends Controller
                 } catch (\Throwable $th) {
                     $message = 'Não conseguimos importar os dados complementares, verifique por favor!';
                     return redirect()->back()->with('error', $message);
-        
                 }
             }
         }
