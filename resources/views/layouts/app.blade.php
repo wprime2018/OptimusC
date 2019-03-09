@@ -20,11 +20,13 @@
     <link href="{{ asset('css/bootstrap.min.css') }}" rel="stylesheet">
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
     <link href="{{ asset('css/waiting.css') }}" rel="stylesheet">
-
+    <link href="http://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css" rel="stylesheet">
+    
     <!-- Scripts -->
     <script type="text/javascript" src="{{ asset('js/jquery-3.3.1.min.js') }}"></script>
     <script type="text/javascript" src="{{ asset('js/jquery-3.3.1.slim.js') }}" ></script>
     <script type="text/javascript" src="{{ asset('js/bootstrap.min.js') }}" ></script>
+    <script type="text/javascript" src="http://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js" ></script>
 
 </head>
 <body>

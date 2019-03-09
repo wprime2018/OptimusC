@@ -17,6 +17,7 @@ class CreateUGestorasTable extends Migration
             $table->increments('id');
             $table->string('codigoUnidGestora',15)->nullable();
             $table->string('nomeUnidGestora',60)->nullable();
+            $table->string('fantasia',40)->nullable();
             $table->string('cpfContador',11)->nullable();
             $table->string('cpfGestor',11)->nullable();
             $table->timestamps();

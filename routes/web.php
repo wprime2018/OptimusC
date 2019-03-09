@@ -18,5 +18,11 @@ Route::get('/', function () {
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+
+$this->group(['prefix' => 'admin', 'namespace' => 'Painel', 'middleware' => 'auth'], function(){
+    $this->post('importSenior'           , 'ImportSenior@importFunc')->name('importSenior');
+    $this->resource('funcionarios'           , 'FuncionariosController');
+
+});
+
 Route::post('/importSagres', 'ImportSagres@importFolha')->name('importSagres');
-Route::post('/importSenior', 'Painel\ImportSenior@importFunc')->name('importSenior');

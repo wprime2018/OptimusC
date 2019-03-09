@@ -14,13 +14,15 @@
                                 <span class="glyphicon glyphicon-shopping-cart"></span>Importar SAGRES</a>
                             <a data-toggle="modal" data-target="b2" id="btnModal2" class="btn btn-primary btn-lg active btn-add">
                                 <span class="glyphicon glyphicon-shopping-cart"></span>Importar Senior</a>
+                            <a href="{{route('funcionarios.index')}}" class="btn btn-primary btn-lg active btn-add">
+                                <span class="glyphicon glyphicon-plus"></span> Funcionarios</a>
+
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-
     @component('modals.modal_primary')
         @slot('txtBtnModal')
             Importar Folha Do SAGRES

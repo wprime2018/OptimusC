@@ -4,6 +4,7 @@ namespace App\Models;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\SoftDeletes;
+use App\Models\FuncVinc;
 
 class Funcionarios extends Model
 {
@@ -29,4 +30,9 @@ class Funcionarios extends Model
             'qtSalarioFamilia',
             'qtDependentesIRPF'
 		    ];
+    
+    public function vinculo() {
+        return $this->hasMany(FuncVinc::Class, 'func_id', 'id')->orderBy('dataAdmissao', 'DESC');
+    }
+    
 }
